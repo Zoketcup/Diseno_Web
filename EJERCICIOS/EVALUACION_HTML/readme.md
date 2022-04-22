@@ -292,57 +292,57 @@ Realiza la maquetación del siguiente ejemplo de página: (se aplica la rúbrica
   
 ![image](https://user-images.githubusercontent.com/91554777/164575358-76757050-5393-44a3-a075-0583e749b4e8.png)
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>examen</title>
-</head>
-<body>
-<header>
-    <h1>ENCABEZADO NIVEL 1</h1>
-    <nav> 
-        <a href="url">enlace 1</a>
-        <a href="url">enlace 2</a>
-        <a href="url">enlace 3</a>
-        <a href="url">enlace 4</a>
+     <!DOCTYPE html>
+     <html lang="en">
+     <head>
+         <meta charset="UTF-8">
+         <meta http-equiv="X-UA-Compatible" content="IE=edge">
+         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <title>examen</title>
+     </head>
+     <body>
+     <header>
+         <h1>ENCABEZADO NIVEL 1</h1>
+         <nav> 
+             <a href="url">enlace 1</a>
+             <a href="url">enlace 2</a>
+             <a href="url">enlace 3</a>
+             <a href="url">enlace 4</a>
 
-    </nav>
-   
-</header>
-<section>
-<b><H2>Encabezado nivel 2</H2></b>
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque distinctio expedita id. Sit, id quae necessitatibus fugiat deleniti maxime beatae mollitia ea ipsum ducimus repudiandae ratione autem illo, dolores possimus.<b>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel sunt incidunt asperiores delectus optio ipsam at, quo itaque natus voluptas, quisquam atque assumenda perferendis ea aut? Eos aut temporibus quasi.</b></p>
-<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia aliquid rem mollitia odio aspernatur voluptates nostrum libero distinctio labore sed, consectetur maxime neque similique reprehenderit asperiores accusantium fuga soluta nam.</p>
+         </nav>
 
-<aside>
-<b><h2>Apartado</h2></b>
-elije una opcion
-<form>
-    <br>
-    <input type="checkbox" id="opcion 1" name="opcion 1" value="opcion 1"/>
-    <label for="opcion 1">opcion 1</label><br>
-    <input type="checkbox" id="opcion 2" name="opcion 2" value="opcion 2"/>
-    <label for="opcion 2">opcion 2</label><br>
-    <input type="checkbox" id="opcion 3" name="opcion 3" value="opcion 3"/>
-    <label for="opcion 3">opcion 3</label>
-</form>
+     </header>
+     <section>
+     <b><H2>Encabezado nivel 2</H2></b>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque distinctio expedita id. Sit, id quae necessitatibus fugiat deleniti maxime beatae mollitia ea ipsum ducimus repudiandae ratione autem illo, dolores possimus.<b>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vel sunt incidunt asperiores delectus optio ipsam at, quo itaque natus voluptas, quisquam atque assumenda perferendis ea aut? Eos aut temporibus quasi.</b></p>
+     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officia aliquid rem mollitia odio aspernatur voluptates nostrum libero distinctio labore sed, consectetur maxime neque similique reprehenderit asperiores accusantium fuga soluta nam.</p>
 
-
-
-</aside>
-<footer>seccion de informacion de contacto,derechos de autor ,etc.</footer>
-
-
-</section>
+     <aside>
+     <b><h2>Apartado</h2></b>
+     elije una opcion
+     <form>
+         <br>
+         <input type="checkbox" id="opcion 1" name="opcion 1" value="opcion 1"/>
+         <label for="opcion 1">opcion 1</label><br>
+         <input type="checkbox" id="opcion 2" name="opcion 2" value="opcion 2"/>
+         <label for="opcion 2">opcion 2</label><br>
+         <input type="checkbox" id="opcion 3" name="opcion 3" value="opcion 3"/>
+         <label for="opcion 3">opcion 3</label>
+     </form>
 
 
 
-    
-</body>
-</html>
+     </aside>
+     <footer>seccion de informacion de contacto,derechos de autor ,etc.</footer>
+
+
+     </section>
+
+
+
+
+     </body>
+     </html>
 
   Debes tener en cuenta los siguientes requisitos:
   
