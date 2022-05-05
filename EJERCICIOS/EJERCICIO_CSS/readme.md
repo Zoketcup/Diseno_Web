@@ -203,6 +203,8 @@ Imagen paisaje de la Ciudad de México https://escuelasdecodigo.cdmx.gob.mx/wp-c
      </body>
      </html>
       
+   css
+   
       *{
      margin: 0;
      padding: 0;
