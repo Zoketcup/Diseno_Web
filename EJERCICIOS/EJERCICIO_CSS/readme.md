@@ -162,8 +162,116 @@ Imagen paisaje de la Ciudad de México https://escuelasdecodigo.cdmx.gob.mx/wp-c
 
       INGRESA AQUI EL CÓDIGO HTML
       
+      <!DOCTYPE html>
+     <html>
+     <head>
+         <link rel="stylesheet" href="estilos.css">
+         <title>evaluacion final</title>
+     </head>
+     <body>
+         <header>
+               <img src="logo.svg" alt="logo de la pagina">
+
+                <nav>
+                    <div></div>
+                    <div>
+                       <ul>
+                         <li class="ret">Residente</li>
+                         <li class="ret">Negocios</li>
+                         <li class="ret">Visitantes</li>
+                         <li class="ret">Gobierno</li>
+                      </ul>
+                    </div>
+                </nav>
+         </header>
+         <main>
+             <div>
+                <p id="w">
+                 <span>></span>APRENDE A PROGRAMAR<br> EN LAS <span>ESCUELAS DE CODIGO</span><br> DE LA CDMX
+                </p>
+             </div>
+         </main>
+         <footer>
+               <p id="ama">
+                ¿Quien se puede inscribir?
+               </p>
+               <p>
+                cualquier persona que quiera aprender a programar codigo y cuente con 4-8 horas disponibles a la semana.<br>
+                *Menores de edad deberan entrar a las instalaciones acompañado de un adulto*
+               </p>
+         </footer>
+     </body>
+     </html>
       
-      
+      *{
+     margin: 0;
+     padding: 0;
+     }
+
+     div
+     {
+     width: 60%;
+         text-align: right;
+     }
+
+     #ama
+     {
+     color: goldenrod;
+     text-align: center;
+     }
+
+     ul
+     {
+     color: darkgreen;
+     display: flex;
+     list-style-type: neno;
+     }
+
+     main
+     {
+     height: 60vh;
+     background: url("hero.jpg");
+     background-repeat: no-repeat;
+     backgriund-position: center;
+     background-size: cover;
+     }
+
+     #w
+     {
+     color: white;
+     text-align: right;
+     font-size: 60px;
+     width: 55%;
+     }
+
+     p
+     {
+     color: black;
+     text-align: center;
+     }
+
+     .ret
+     {
+     margin: 10px;
+     }
+
+     img
+     {
+     height: 5vh;
+     }
+
+     span
+     {
+     font-size: 75px;
+     text-width: bold;
+     }
+
+     nav
+     {
+     display: flex;
+     justify-content: space-between;
+     width: 100%;
+     }
       
       INGRESA AQUI EL CSS
 Ingresa el link a tu página del proyecto final
